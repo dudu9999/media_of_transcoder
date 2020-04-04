@@ -1,0 +1,55 @@
+         * EXECUTAR O PROGRAMA (LINUX) *
+####################################################
+
+----------------------------------------------------
+- Para executar o script basta no terminal executar 
+./main.py, irá abrir um menu de opções, daí basta 
+apenas digitar o número da opção correspondente
+----------------------------------------------------
+
+
+****************************************************
+
+# CONVERSÕES DE VÍDEOS (DE -> PARA)
+----------------------------------------------------
+MP4 -> MKV
+MKV -> MP4
+MP4 -> WMV
+WMV -> MP4
+MP4 -> AVI
+AVI -> MP4
+----------------------------------------------------
+
+# EXTRAÇÃO E CONVERSÃO DE ÁUDIO (DE -> PARA)
+----------------------------------------------------
+MP4 -> OGG
+MP4 -> MP3
+MP4 -> FLAC
+MP4 -> AAC
+MKV -> OGG
+MKV -> MP3
+MKV -> FLAC
+MKV -> AAC
+WMV -> OGG
+WMV -> MP3
+WMV -> FLAC
+MWV -> AAC
+AVI -> OGG
+AVI -> MP3
+AVI -> FLAC
+AVI -> AAC
+-----------------------------------------------------
+
+# CONVERSÕES DE ÁUDIO (DE -> PARA)
+-----------------------------------------------------
+MP3 -> FLAC
+FLAC -> MP3
+MP3 -> OGG
+OGG -> MP3
+MP3 -> AAC
+AAC -> MP3
+FLAC -> OGG
+OGG -> FLAC
+FLAC - AAC
+AAC - FLAC
+------------------------------------------------------
